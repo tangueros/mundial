@@ -48,7 +48,7 @@ annals:
     stage_f1: 2017/2017-stage-classification.pdf
     stage_f2: 2017/2017-stage-semifinals.pdf
     stage_f3: 2017/2017-stage-finals.pdf
-    catalogf: 2017/2017-festival-brochure.pdf
+    catalogf: catalog/2017-festival-brochure.pdf
 
   - base: http://festivales.buenosaires.gob.ar/2016/tangofestivalymundial/en/
     year:     2016
@@ -72,7 +72,7 @@ annals:
     stage_f1: 2016/2016-stage-classification.pdf
     stage_f2: 2016/2016-stage-semifinals.pdf
     stage_f3: 2016/2016-stage-finals.pdf
-    catalogf: 2016/2016-festival-brochure.pdf
+    catalogf: catalog/2016-festival-brochure.pdf
 
   - base: http://festivales.buenosaires.gob.ar/2015/tangofestivalymundial/en/
     year:     2015
@@ -96,7 +96,7 @@ annals:
     stage_f1: 2015/2015-stage-classification.pdf
     stage_f2: 2015/2015-stage-semifinals.pdf
     stage_f3: 2015/2015-stage-finals.pdf
-    catalogf: 2015/2015-festival-brochure.pdf
+    catalogf: catalog/2015-festival-brochure.pdf
 
   - base: http://festivales.buenosaires.gob.ar/2014/tangofestivalymundial/en/
     year:     2014
@@ -119,7 +119,7 @@ annals:
     stage_f1: 2014/2014-stage-classification.pdf
     stage_f2: 2014/2014-stage-semifinals.pdf
     stage_f3: 2014/2014-stage-finals.pdf
-    catalogf: 2014/2014-festival-brochure.pdf
+    catalogf: catalog/2014-festival-brochure.pdf
 
   - base: http://festivalesanteriores.buenosaires.gob.ar/tango/festivalymundial13/web/en/
     year:     2013
@@ -169,7 +169,7 @@ annals:
     stage_f1: 2012/2012-stage-classification.pdf
     stage_f2: 2012/2012-stage-semifinals.pdf
     stage_f3: 2012/2012-stage-finals.pdf
-    catalogf: 2012/2012-festival-brochure.pdf
+    catalogf: catalog/2012-festival-brochure.pdf
 
 
   - base: http://festivalesanteriores.buenosaires.gob.ar/tango/festivalymundial11/web/en/
