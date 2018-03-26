@@ -8,8 +8,3 @@ per_page: 12
 .container
   %main.main(role="main")
 
-  %ul
-  - data.mundial.annals.each do |i|
-
-    %li
-      = link_to "Year #{i.year}", "/year/#{i.year}/"

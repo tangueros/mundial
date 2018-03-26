@@ -8,11 +8,12 @@ pageclass: home
   .logo
     = image_tag "middleman-logo.svg"
   %h1
-    %i tango east
-  %h3
-    %p tango development company
-  %p.doc
-    = link_to "Contact Us", "mailto:kaceong@gmail.com", target: "_blank"
+    %i tango mundial
 
+  %ul
+  - data.mundial.annals.each do |i|
+
+    %li
+      = link_to "Year #{i.year}", "/year/#{i.year}/"
 
 
