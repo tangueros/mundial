@@ -1,0 +1,192 @@
+internationals:
+
+  - code: ar
+    subs: true
+    zone: Argentina
+    name: TangoBA Campeonato de Baile de la Ciudad
+    link: http://festivales.buenosaires.gob.ar/2018/tangociudad/es
+    fbto:
+    city: Buenos Aires
+    date: 2018-05-09 to 2018-05-20
+
+  - code: uy
+    subs:
+    zone: Uruguay
+    name: Campeonato Nacional Tango Danza
+    link:
+    fbtox: https://www.facebook.com/Mundial-de-Tango-Subsede-Uruguay-637991569548378/
+    fbto: https://www.facebook.com/tangodanzauruguay/
+    city:
+    date:
+
+  - code: br
+    subs: true
+    zone: Brazil
+    name: Preliminar y Festival Tango Brasil
+    link: http://preliminartangobrasil.com/
+    fbto: https://www.facebook.com/preliminaryfestivaltangobrasil/
+    city: Sao Paulo
+    date: 2018-07-26 to 2018-07-29
+
+
+  - code: co
+    subs:
+    zone: Colombia
+    name:
+    link:
+    fbto: https://www.facebook.com/FestivalInternacionaldeTangodeCali/
+    city: Cali
+    date: 2018-05-25 to 2018-05-27
+
+  - code: co2
+    subs:
+    zone: Colombia
+    name:
+    link:
+    fbto: https://www.facebook.com/worldtangochampionships/
+    city: Medallin
+    date:
+
+  - code: cl
+    subs:
+    zone: Chile
+    name: Campeonato Nacional de Tango
+    link:
+    fbto:
+    city:
+    date:
+
+  - code: ve
+    subs:
+    zone: Venezuela
+    name:
+    link:
+    fbto:
+    city:
+    date:
+
+  - code: us
+    subs: true
+    zone: United States
+    name: Argentine Tango USA Championship + Festival
+    link: http://tangousachampionship.com/
+    fbto: https://www.facebook.com/Argentine-Tango-USA-127836513944910/
+    city: San Francisco
+    date: 2018-03-29 to 2018-04-02
+
+  - code: us2
+    subs: false
+    zone: United States
+    name: Southern California Tango Championship + Festival
+    link: https://www.socaltangochampionship.com/
+    fbto: https://www.facebook.com/socaltangochampionship/
+    city: Los Angeles
+    date: 2018-02-23 to 2018-02-25
+
+  - code: eu
+    subs: true
+    zone: Europe Regional
+    name: European Tango Championship & Festival
+    link: http://www.eutango.com/
+    fbto: https://www.facebook.com/EuropeanTangoChampionshipFestival/
+    city: Cervia
+    date: 2018-07-02 to 2018-07-08
+
+  - code: it
+    subs:
+    zone: Italy
+    name: Campionato di Tango Preliminare - Italia Grecia Malta
+    link: http://www.eutango.com/
+    fbto: https://www.facebook.com/CampItaTango/
+    city: Palermo
+    date: 2018-05-03 to 2018-05-06
+
+  - code: it2
+    subs: false
+    zone: Italy
+    name: Campionato Metropolitano Italia
+    link: http://www.metropolitanotango.it/
+    fbto: https://www.facebook.com/metrotangoroma2015/
+    city: (11 Italian cities)
+    date: 2018-03-01 to 2018-04-30
+
+  - code: uk
+    subs: true
+    zone: United Kingdom
+    name: UK Tango Festival & Championship
+    link: http://www.uktangofestival.com/
+    fbto: https://www.facebook.com/uktangofestival/
+    city: London
+    date: 2018-04-06 to 2018-04-08
+
+  - code: fr
+    subs:
+    zone: France
+    name:
+    link:
+    fbto:
+    city:
+    date:
+
+  - code: de
+    subs: true
+    zone: Germany
+    name: Tango Championship & Festival Hamburg
+    link: http://tangochampionshiphamburg.com/
+    fbto: https://www.facebook.com//tangochampionshiphamburg
+    city: Hamburg
+    date:
+
+  - code: ru
+    subs: true
+    zone: Russia
+    name:
+    link: http://tangoturnir.ru/
+    fbto:
+    city: Moscow
+    date: 2018-03-31 to 2018-03-31
+
+  - code: asia
+    subs: true
+    zone: Asia Regional
+    name: Campeonato Asiatico
+    link: http://campeonatoasiatico.com/
+    fbto:
+    city: Tokyo
+    date:
+
+  - code: jp
+    subs:
+    zone: Japan
+    name:
+    link: http://campeonatoasiatico.com/
+    fbto:
+    city: Tokyo
+    date:
+
+  - code: kr
+    subs: true
+    zone: South Korea
+    name: Korea International Tango Championship
+    link: http://koreatango.kr/
+    fbto: https://www.facebook.com/koreatangofestival/
+    city: Seoul
+    date: 2018-06-01 to 2018-06-03
+
+  - code: cn
+    subs: true
+    zone: China
+    name: China Tango Championship 国际探戈大赛中国选拔赛
+    link:
+    fbto:
+    city: Nanjing
+    date: 2018-06-15 to 2018-06-18
+
+  - code: hk
+    subs: false
+    zone: China
+    name: Tango Xtreme Workshop and Championship
+    link: http://www.otrotango.com.hk/event/xtreme2018/
+    fbto: https://www.facebook.com/TangoChampionshipHK/
+    city: Hong Kong
+    date: 2018-05-16 to 2018-05-22

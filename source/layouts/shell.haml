@@ -1,0 +1,16 @@
+!!!
+%html{:lang=>"en"}
+  %head
+    %meta{:charset=>"utf-8"}/
+    %meta{:name=>"viewport",
+      :content=>"width=device-width, initial-scale=1, shrink-to-fit=no"}/
+    %title= current_page.data.title || @site.name
+    = partial "partials/meta"
+    = partial "partials/preambles"
+    = yield_content :pre_meta
+    = yield_content :pre_css
+    = yield_content :pre_js
+  %body{:class=>"page-#{current_page.data.pageclass}"}
+    = yield
+    = partial "partials/postambles"
+    = yield_content :post_js

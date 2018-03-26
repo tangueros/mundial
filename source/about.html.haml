@@ -1,0 +1,39 @@
+---
+title: About Tango East
+pageclass: about
+---
+.container
+  %h1
+    About Tango East
+  %p
+    We are a platform
+  #headtalk
+    .loading
+  %p
+    Hope to hear from you!
+
+/ templates
+%script#mytemplate{:type=>"text/x-handlebar-templates"}
+  %table.table.table-bordered
+    = "{{#each .}}"
+    %tr
+      %td= "{{name}}"
+      %td= "{{age}}"
+    = "{{/each}}"
+
+
+- content_for :post_js do
+  :javascript
+    function myReady(){
+      //var api = 'http://db.tangueros.net/fb/gf/348726108583892';
+      //$.getJSON( api ).done( function(info) {
+      //  transform('#mytemplate', '#headtalk', info.data);
+      //
+      var data=[
+        {"name": "John", "age": 30},
+        {"name": "Mary", "age": 21}
+      ];
+      transform('#mytemplate', '#headtalk', data);
+    }
+    $(document).ready(myReady());
+

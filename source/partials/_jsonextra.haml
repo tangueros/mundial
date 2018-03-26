@@ -1,0 +1,41 @@
+/ templates
+%script#dblogsTemplate{:type=>"text/x-handlebar-templates"}
+  = "{{#each .}}"
+  .row{:style=>"border-top:1px dotted; margin: 0 4px 8px;"}
+    .col-xs-3
+      = "{{created_time}}"
+      %br
+      %a.pull-left{:href=>"{{link}}"}
+        %img.img-thumbnail.img-responsive{:src=>"https://graph.facebook.com/v2.6/{{from.id}}/picture",
+          :style=>"max-height:120px;margin:0 10px 10px 0"}
+      %p
+        %b= "{{from.name}}"
+        = "posted a {{type}}"
+    .col-xs-6
+      %p= "{{message}}"
+    .col-xs-3
+      = "{{reactions.summary.total_count}}"
+      reactions, and
+      = "{{comments.summary.total_count}}"
+      comments
+  = "{{/each}}"
+
+:javascript
+  function myReady(){
+    //var api = 'http://db.tangueros.net/fb/gf/348726108583892';
+    //$.getJSON( api ).done( function(info) {
+    //  transform('#dblogsTemplate', '#headtalk', info.data);
+    //});
+  }
+
+:javascript
+  function transform(template, tag, obj) {
+    console.log("Template start for "+template+" into "+tag);
+    var compiled = Handlebars.compile( $(template).html() );
+    $(tag).html( compiled(obj) );
+    console.log("Template complete for "+tag);
+  }
+  $(document).ready(myReady());
+
+
+

@@ -1,0 +1,54 @@
+site:
+  name:        Tango Mundial
+  description: archives of Mundial de Baile de Tango
+  keywords:    tech, ideas, invent, problem-solver
+  author:      ""
+  footleft:    "&copy; 2018 tangoeast"
+  footright:   "Something here"
+  ga:          UA-1424133-1
+  favicon:     "/res/favicon.png"
+  url:         "http://telematiq.org"
+
+twitter:
+  pix: http://res.tangueros.net/club/abrazos-night.jpg
+  description: "Weekly milongas on Wed and Sat nights; Daily tango classes; Dance shoes for sale"
+  title: "Abrazos Club - Singapore's oldest tango centre"
+  creator: "@tangosingapore"
+
+mundialarchives:  https://github.com/tangodata/mundialarchives/raw/master/
+
+topmenu:
+  -
+    name:  "Home"
+    slug:  "/index.html"
+  -
+    name:  "News"
+    slug:  "/news.html"
+  -
+    name:  "About"
+    slug:  "/about.html"
+  -
+    name:  "Preliminaries"
+    slug:  "/preliminaries.html"
+
+
+unused:
+  -
+    name: About
+    submenu:
+    -
+      name:  News
+      slug:  /dance/dojo
+    -
+      name:  Events
+      slug:  /dance/dojo
+    -
+      name:  Membership
+      slug:  /dance/dojo
+
+  -
+    name:  "Sitemap"
+    slug:  "/sitemap.xml"
+  -
+    name:  "Feed"
+    slug:  "/feed.xml"

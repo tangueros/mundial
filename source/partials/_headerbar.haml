@@ -1,0 +1,28 @@
+%nav.navbar.navbar-expand-md.fixed-top.navbar-dark.bg-dark
+  .container
+    = link_to @site.name, '/index.html', :class=>"navbar-brand"
+
+    %button.navbar-toggler{:type=>"button",
+      "data-toggle"=>"collapse",
+      "data-target"=>"#navbarSupportedContent",
+      "aria-controls"=>"navbarSupportedContent",
+      "aria-expanded"=>"false",
+      "aria-label"=>"Toggle navigation"}
+      %span.navbar-toggler-icon
+
+    .collapse.navbar-collapse{:id=>"navbarSupportedContent"}
+      %ul.navbar-nav.ml-auto
+
+        - data.chrome.topmenu.each do |i|
+          - if !i.submenu then
+            %li.nav-item
+              = link_to i.name, i.slug, :class=>'nav-link'
+          - else
+            %li.nav-item.dropdown
+              %a.nav-link.dropdown-toggle{:href=>"#",
+                :role=>"button","data-toggle"=>"dropdown",
+                "aria-haspopup"=>"true","aria-expanded"=>"false"}
+                = i.name
+              .dropdown-menu
+                - i.submenu.each do |j|
+                  = link_to j.name,  j.slug, :class=>'dropdown-item'

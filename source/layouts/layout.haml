@@ -1,0 +1,9 @@
+- @site     = data.chrome.site
+- @twitter  = data.chrome.twitter
+= wrap_layout :shell do
+  = partial "partials/headerbar.haml"
+  %main{:role=>"main"}
+    = yield
+  = partial "partials/footerbar.haml"
+
+

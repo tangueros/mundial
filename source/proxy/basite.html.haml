@@ -1,0 +1,84 @@
+---
+
+---
+- archives =  data.chrome.mundialarchives
+- inews =     autoprefix(item.base, item.news)
+- igallery =  autoprefix(item.base, item.gallery)
+- icatalog =  autoprefix(item.base, item.catalog)
+- icomp =     autoprefix(item.base, item.comp)
+- irules =    autoprefix(item.base, item.rules)
+- iprelim =   autoprefix(item.base, item.prelim)
+- ipista_r1 = autoprefix(item.base, item.pista_r1)
+- ipista_r2 = autoprefix(item.base, item.pista_r2)
+- ipista_r3 = autoprefix(item.base, item.pista_r3)
+- istage_r1 = autoprefix(item.base, item.stage_r1)
+- istage_r2 = autoprefix(item.base, item.stage_r2)
+- istage_r3 = autoprefix(item.base, item.stage_r3)
+- icatalogf = autoprefix(archives, item.catalogf)
+- ipista_f1 = autoprefix(archives, item.pista_f1)
+- ipista_f2 = autoprefix(archives, item.pista_f2)
+- ipista_f3 = autoprefix(archives, item.pista_f3)
+- istage_f1 = autoprefix(archives, item.stage_f1)
+- istage_f2 = autoprefix(archives, item.stage_f2)
+- istage_f3 = autoprefix(archives, item.stage_f3)
+
+.container
+  %h3 Competition Page
+
+  %h1= item.year
+  %p
+    Minisite
+    = link_to "Link", item.base
+  %p
+    = item.sdate
+    to
+    = item.edate
+
+  %h3 News
+  %p
+    = link_to "News", inews
+  %p
+    = link_to "Gallery", igallery
+  %p
+    = link_to "Catalog", icatalog
+    |
+    = link_to "(saved)", icatalogf
+
+  %h3 Competition
+  %p
+    = link_to "Comp", icomp
+  %p
+    = link_to "Rules", irules
+  %p
+    = link_to "Prelim", iprelim
+
+  %h4 Tango de Pista Results
+  %ul
+    %li
+      = link_to "Classification", ipista_r1
+      |
+      = link_to "(saved)", ipista_f1
+    %li
+      = link_to "Semi-Final", ipista_r2
+      |
+      = link_to "(saved)", ipista_f2
+    %li
+      = link_to "Final", ipista_r3
+      |
+      = link_to "(saved)", ipista_f3
+
+  %h4 Tango Escenario Results
+  %ul
+    %li
+      = link_to "Classification", istage_r1
+      |
+      = link_to "(saved)", istage_f1
+    %li
+      = link_to "Semi-Final", istage_r2
+      |
+      = link_to "(saved)", istage_f2
+    %li
+      = link_to "Final", istage_r3
+      |
+      = link_to "(saved)", istage_f3
+
