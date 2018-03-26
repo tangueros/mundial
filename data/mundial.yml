@@ -16,11 +16,18 @@ annals:
     stage_r1:
     stage_r2:
     stage_r3:
+    #pista_f1: 2018/2018-pista-classification.pdf
+    #pista_f2: 2018/2018-pista-semifinals.pdf
+    #pista_f3: 2018/2018-pista-finals.pdf
+    #stage_f1: 2018/2018-stage-classification.pdf
+    #stage_f2: 2018/2018-stage-semifinals.pdf
+    #stage_f3: 2018/2018-stage-finals.pdf
+    #catalogf: 2018/2018-festival-brochure.pdf
 
   - base: http://festivales.buenosaires.gob.ar/2017/tangofestivalymundial/en/
     year:     2017
-    sdate:    2018-08-07
-    edate:    2018-08-30
+    sdate:    2018-08-10
+    edate:    2018-08-23
     catalog:  anything
     news:
     gallery:
@@ -35,6 +42,13 @@ annals:
     stage_r3:
     # API call
     # http://festivales.buenosaires.gob.ar/v2/2017/tangofestivalymundial/es/page?pagename=noticias
+    pista_f1: 2017/2017-pista-classification.pdf
+    pista_f2: 2017/2017-pista-semifinals.pdf
+    pista_f3: 2017/2017-pista-finals.pdf
+    stage_f1: 2017/2017-stage-classification.pdf
+    stage_f2: 2017/2017-stage-semifinals.pdf
+    stage_f3: 2017/2017-stage-finals.pdf
+    catalogf: 2017/2017-festival-brochure.pdf
 
   - base: http://festivales.buenosaires.gob.ar/2016/tangofestivalymundial/en/
     year:     2016
@@ -155,6 +169,7 @@ annals:
     stage_f1: 2012/2012-stage-classification.pdf
     stage_f2: 2012/2012-stage-semifinals.pdf
     stage_f3: 2012/2012-stage-finals.pdf
+    catalogf: 2012/2012-festival-brochure.pdf
 
 
   - base: http://festivalesanteriores.buenosaires.gob.ar/tango/festivalymundial11/web/en/
