@@ -33,7 +33,7 @@ internationals:
     subs:
     zone: Colombia
     name:
-    link:
+    link: http://www.culturajacaranda.com/
     fbto: https://www.facebook.com/FestivalInternacionaldeTangodeCali/
     city: Cali
     date: 2018-05-25 to 2018-05-27
@@ -48,13 +48,13 @@ internationals:
     date:
 
   - code: cl
-    subs:
+    subs: true
     zone: Chile
-    name: Campeonato Nacional de Tango
-    link:
-    fbto:
-    city:
-    date:
+    name: Festival del Tango de Valparaíso
+    link: http://www.municipalidaddevalparaiso.cl
+    fbto: https://www.facebook.com/valparatangocl/
+    city: Valparaíso
+    date: 2018-02-03 to 2018-02-11
 
   - code: ve
     subs:
@@ -120,12 +120,21 @@ internationals:
     date: 2018-04-06 to 2018-04-08
 
   - code: fr
-    subs:
+    subs: true
     zone: France
     name:
-    link:
+    link: http://www.preliminairesmondialtangoparis.fr/
     fbto:
     city:
+    date:
+
+  - code: gr
+    subs: true
+    zone: Greece
+    name:
+    link: http://www.tangoacropolis.eu/
+    fbto:
+    city: Athens
     date:
 
   - code: de

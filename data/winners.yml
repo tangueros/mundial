@@ -1,0 +1,513 @@
+salonmundial:
+  - year: 2017
+    champ: Germán Ballejo and Magdalena Gutiérrez (AR)
+    pos2: José Luis Salvo and Carla Rossi (AR)
+    pos3: Luis Romero and Ana Migoni (AR)
+
+  - year: 2016
+    champ: Cristian Palomo and Melisa Sacchi (AR)
+    pos2: Carlos Estigarribia and María Laura Sastría (AR)
+    pos3: Lucas Gauto and Dana Zampieri (AR)
+
+  - year: 2015
+    champ: Jonathan Saavedra and Clarisa Aragón (AR)
+    pos2: Christian Palomo and Melisa Sacchi (AR)
+    pos3: Germán Ballejo and Magdalena Gutiérrez (AR)
+
+  - year: 2014
+    champ: Sebastián Acosta and Lorena González Cattaneo (AR)
+    pos2: Edwin Espinosa and Alexandra Yepes (CO)
+    pos3: Alexander Moncada Rojas and Alejandra Sanchez (CO)
+
+  - year: 2013
+    champ: Maximiliano Cristiani and Jesica Afernoni (AR)
+    pos2: Fernando Carrasco and Jimena Hoeffner (AR)
+    pos3: Juan Malizia Gatti and Manuela Rossi (AR)
+
+  - year: 2012
+    champ: Facundo de la Cruz Gómez Palavecino and Paola Sanz (AR)
+    pos2: Maximiliano Cristiani and Fatima Vitale (AR)
+    pos3: Diego Ortega and Aldana Silveyra (AR)
+
+  - year: 2011
+    champ: Diego Benavidez Hernández and Natasha Agudelo Arboleda (CO)
+    pos2: John Erban and Clarissa Sánchez (VE)
+    pos3: Brian Nguyen and Yuliana Basmajyan (US)
+
+  - year: 2010
+    champ: Sebastián Ariel Jimenez and María Inés Bogado (AR)
+    pos2: Diego Pérez and María Cantarini (AR)
+    pos3: Cristian López and Naoko Tsutsumisaki (JP)
+
+  - year: 2009
+    champ: Hiroshi Yamao and Kyoko Yamao (JP)
+    pos2: Edwin Leon and Jenifert Arango Agudelo (CO)
+    pos3: Damian Mariño y Sara Parnigoni (AR)
+
+  - year: 2008
+    champ: Daniel Nacucchio and Cristina Sosa (AR)
+    pos2: Neri Luciano Piliu and Yanina Valeria Quiñones (AR)
+    pos3: John Erban y Sofiani Figueroa (VE)
+
+  - year: 2007
+    champ: Dante Sánchez and Inés Muzzopappa (AR)
+    pos2: Javier Díaz and Cecilia Favaro (AR)
+    pos3: Maximiliano Cristiani and Maricel Giacomini (AR)
+
+  - year: 2006
+    champ: Fabián Peralta and Natacha Poberaj (AR)
+    pos2: Aoniken Quiroga and Emilia Cerutti (AR)
+    pos3: Diego Pérez and Soledad Cantarini (AR)
+
+  - year: 2005
+    champ: Sebastián Achával and Ximena Gallicchio (AR)
+    pos2: Pedro Vujovich and Graciela Cano (AR)
+    pos3: Fabián Peralta and Natacha Poberaj (AR)
+
+  - year: 2004
+    champ: Osvaldo Cartery and Luisa Inés Cartery (AR)
+    pos2: Luciano Brigante and Karina Guillen (AR)
+    pos3: Edwin Chica Caro and Lina María Valencia de Cali (CO)
+
+  - year: 2003
+    champ: Enrique Husares and Gabriela Sanguinetti (AR)
+    pos2: Enrique Grahl and Judith Zapatero (DE)
+    pos3: Jorge Damián Mariño and Gabriela Trapanotto (AR)
+
+
+stagemundial:
+  - year: 2017
+    champ: Axel Arakaki and Agostina Tarchinise (AR)
+    pos2: Simone Facchini and Gioia Abballe (IT)
+    pos3: Valentin Arias Delgado and Diana Franco Durango (CO)
+
+  - year: 2016
+    champ: Hugo Mastrolorenzo and Agustina Vignau (AR)
+    pos2: Emmanuel Casal y Yanina Muzyca (AR)
+    pos3: Andres Uran y Estefania Arango (AR)
+
+  - year: 2015
+    champ: Ezequiel Jesús Lopez and Camila Alegre (AR)
+    pos2: Juan Pablo Bulich and Rocío García Liendo (AR)
+    pos3: Hugo Mastrolorenzo and Daiana Pujol (AR)
+
+  - year: 2014
+    champ: Juan Malizia Gatti and Manuela Rossi (AR)
+    pos2: Hugo Mastrolorenzo and Agustina Vignau (AR)
+    pos3: Jesus Taborda and Shirley Xuanyi Xu (AR)
+
+  - year: 2013
+    champ: Guido Palacios and Florencia Castilla (AR)
+    pos2: Nicolas Matias Schell and Macarena Schinca Rosas (AR)
+    pos3: Juan Pablo Bulich and Rocio García Liendo (AR)
+
+  - year: 2012
+    champ: Cristian Sosa and María Noel Sciuto (AR)
+    pos2: Eber Burguer and Yesica Elias (AR)
+    pos3: Cristian Corea and Sabrina Amuchastegui (AR)
+
+  - year: 2011
+    champ: Max Van De Voorde and Solange Acosta (AR)
+    pos2: Cristian David Correa and Manuela Rossi (AR)
+    pos3: Eber Alejandro Burger and Yesica Lorena Lozano Elias Lanus (AR)
+
+  - year: 2010
+    champ: Diego Ortega and Chizuko Kuwamoto (AR)
+    pos2: Cristian David Correa and Manuela Rossi (AR)
+    pos3: Cristian Andres Lopez and Nao Tsutsumishita (JP)
+
+  - year: 2009
+    champ: Jonathan Spitel and Betsabet Flores (AR)
+    pos2: Cristian Correa and Manuela Rossi (AR)
+    pos3: Cristián Andrés López and Naoko Tsutsumizaki (JP)
+
+  - year: 2008
+    champ: José Fernández and Melody Celatti (AR)
+    pos2: Maximiliano Cristiani and Maricel Giacomini (AR)
+    pos3: John Raigoza and Yaisuri Salamanca (CO)
+
+  - year: 2007
+    champ: Fernando Gracia and Natalia Tonelli Attori (AR)
+    pos2: Maximiliano Alvarado and Paloma Berrios (CL)
+    pos3: Hiroshi and Kyoko Yamao (JP)
+
+  - year: 2006
+    champ: Carlos Alberto Paredes and Diana Giraldo Rivera (CO)
+    pos2: Juan Gregorio Malizia Gatti and Florencia Roldán (AR)
+    pos3: Gonzalo Damian Cuello and Makiko Hirai (JP)
+
+  - year: 2005
+    champ: Germán Cornejo and María de los Angeles Trabichet (AR)
+    pos2: Ryo and Chie Ikemoto (JP)
+    pos3: Roberto Castillo and Paula Ballesteros (AR)
+
+  - year: 2004
+    champ: Iván Romero and Marcela Vespasiano (AR)
+    pos2: Han Lee and Kyung A Han (KOR)
+    pos3: Jorge Damián Mariño and Gabriela Trapanotto (AR)
+
+  - year: 2003
+    champ: Gaspar Godoy and Gisela Galeassi (AR)
+    pos2: Maximiliano Avila and Elizabeth Guerrero (AR)
+    pos3: Roberto Castillo and Paula Andrea Ballesteros (AR)
+
+saloncity:
+  - year: 2017
+  - year: 2016
+  - year: 2015
+  - year: 2014
+  - year: 2013
+  - year: 2012
+  - year: 2011
+  - year: 2010
+  - year: 2009
+  - year: 2008
+  - year: 2007
+  - year: 2006
+  - year: 2005
+  - year: 2004
+  - year: 2003
+  - year: 2017
+  - year: 2016
+  - year: 2015
+  - year: 2014
+  - year: 2013
+  - year: 2012
+  - year: 2011
+  - year: 2010
+  - year: 2009
+  - year: 2008
+  - year: 2007
+  - year: 2006
+  - year: 2005
+  - year: 2004
+  - year: 2003
+
+
+salonasia:
+  - year: 2017
+    champ: Jang & Jenn
+    pos2: Jorence & Rachel
+    pos3: Ezequiel & Agata
+
+  - year: 2016
+    champ: Paso & Elly
+    pos2: Luna Kim y El Torito Park
+    pos3: Tzu-Han & Kyoko
+
+  - year: 2015
+    champ: Maicol Mira y Maiko Aoki   Maicol Stive Mira Munoz
+    pos2: Amelia Rambe ＆ Matthew
+    pos3: Lily & Gen
+
+  - year: 2014
+    champ: Okiz y Eva
+    pos2: Amelia Rambe ＆ Matthew
+    pos3: Lily & Gen
+
+  - year: 2013
+    champ: Hiromi & Natsu
+    pos2: Okiz y Eva
+    pos3: Amelia Rambe & Matthew
+
+  - year: 2012
+    champ: Martin & Yuka
+    pos2: Okiz Baek y Eva youn
+    pos3: Jiwoon y Weining
+
+  - year: 2011
+    champ: Lily & Raymond（香港）
+    pos2: Paso Han & Misun Kang（韓国）
+    pos3: Hiromi & Natsu
+
+  - year: 2010
+    champ: 亮 & 葉月  Hazuki & Ryo
+    pos2: Jino y Yuni
+    pos3: Hiroki & Yoko
+
+  - year: 2009
+    champ: Cristian & Nao
+    pos2: Szu-Chi y Tzu-Han
+    pos3: Natsu & Hiromi
+
+  - year: 2008
+    champ: Hiroshi & Kyoko
+    pos2: Eiichiro & Tomoko
+    pos3: Tzu-Han y Rui
+
+  - year: 2007
+    champ: SAE & JUAN
+    pos2: Jimmy y Yukarin
+    pos3: KUMI & HIROEMON
+
+  - year: 2006
+    champ: Hiro & Miho
+    pos2: Hiroshi & Kyoko
+    pos3: MASA & CHIEKO
+
+  - year: 2005
+    champ: MASA Y TINA
+    pos2: SHINGO & ASUKA
+    pos3: 尾形純子 ＆ 森山厚夫  JUNKO OGATA & ATSUO MORIYAMA
+
+  - year: 2004
+    champ: 美影 ＆ 有彩  Mikage & Arisa
+    pos2: 尾形純子 ＆ 森山厚夫  Junko Ogata & Atsuo Moriyama
+    pos3: 鄭朝霞 ＆ 神田聰 So & Kasumi
+
+
+stageasia:
+  - year: 2017
+    champ: Yutaka & Miki (JP)
+    pos2: Shinji & Natsune (JP)
+    pos3: Shuhei & Yuri (JP)
+
+  - year: 2016
+    champ: Maicol Mira y Maiko Aoki
+    pos2: Paso & Elly
+    pos3: 高志 ＆ めぐみ  Takashi & Megumi
+
+  - year: 2015
+    champ: Rodrigo & Natsuko  Natsuko Mae y Rodrigo Hideki Ohira Rodriguez
+    pos2: Aco & Mariko
+    pos3: 高志 ＆ めぐみ  Takashi & Megumi
+
+  - year: 2014
+    champ: Martin & Yuka
+    pos2: Aco & Mariko
+    pos3: 高志 ＆ めぐみ  Takashi & Megumi
+
+  - year: 2013
+    champ: 中澤源太 ＆ Mana  Genta Nakazawa & Mana
+    pos2: Ezequiel and Agata
+    pos3: Aco & Mariko
+
+  - year: 2012
+    champ: Paso Han y Peninsula Cho
+    pos2: 中澤源太 ＆ Mana  Genta Nakazawa & Mana
+    pos3: としゆき ＆ まきこ  Toshiyuki & Makiko
+
+  - year: 2011
+    champ: Chako & Tacky
+    pos2: 高志 ＆ めぐみ  Takashi & Megumi
+    pos3: 中澤源太 ＆ Mana  Genta Nakazawa & Mana
+
+  - year: 2010
+    champ: 窪田央 ＆ 間々田佳子  Yoshiko Mamada & O Kubota
+    pos2: 高志 ＆ めぐみ  Megumi & Takashi
+    pos3: Chako ＆ Tacky
+
+  - year: 2009
+    champ: 美影 & 有彩  Mikage & Arisa
+    pos2: 中澤源太 ＆ MAKY  Genta nakazawa & Maky
+    pos3: 窪田央 & 間々田佳子  Kubota Ou & Yoshiko Mamada
+
+  - year: 2008
+    champ: Eiichiro & Tomoko
+    pos2: 美影 ＆ 有彩  Mikage & Arisa
+    pos3: 中澤源太 ＆ MAKY  Genta Nakazawa & Maky
+
+  - year: 2007
+    champ: Gyu & Lam
+    pos2: Leon y Maky
+    pos3: 美影 ＆ 有彩  Mikage & Arisa
+
+  - year: 2006
+    champ: 棚田晃吉・典子  AKIYOSHI & NORIKO TANADA　
+    pos2: Lam & Gyu
+    pos3: ジョルジュ ＆ リタ  George & Rita
+
+  - year: 2005
+    champ: 亮 ＆ 葉月  RYO & HAZUKI
+    pos2: 美影 ＆ 有彩  MIKAGE & ARISA
+    pos3: 中沢源太 & 間々田佳子  NAKAZAWA GENTA & MAMADA YOSHIKO
+
+  - year: 2004
+    champ: 阿部恵 ＆ 荒木陽一  Megumi Abe & Yoichi Arak
+    pos2: ハビエル＆ファイ（韓国)  Javier & Hwayi
+    pos3: 美影 ＆ 有彩  Mikage & Arisa
+
+
+salonchina:
+  - year: 2017
+    champ: 吴思萌和马金征       蔡凯、黄玺蓉
+    pos2:
+    pos3:
+
+  - year: 2016
+    champ: He Yucheng y Mi Lichen (shanghai)
+    pos2:
+    pos3:
+
+  - year: 2015
+    champ: Ping Yu and Sergiy Podbolotnyy
+    pos2:
+    pos3:
+
+  - year: 2014
+    champ: lily + raymond 郑励 和 朱永康 (HK)
+    pos2:
+    pos3:
+
+  - year: 2013
+    champ:
+    pos2:
+    pos3:
+
+
+
+salonusa:
+  - year: 2017
+    champ: Ana Thomas & Michael Thomas
+    pos2: Carlos Urrego & Maureen Urrego / Addis Messam & Krista Messam
+    pos3: Derek Tang & Rachelle Lin
+
+  - year: 2016
+    champ: Adam Cornett & Tillia Kimm
+    pos2: Diego Gorostiaga & Kelly Lettieri
+    pos3: Derek Tang & Rachell Lin
+
+  - year: 2015
+    champ: Ivan Troshi and Yamila Viana
+    pos2: Daniel Moreno and Delia Bordon
+    pos3: Johny Nguyen and Lauren Woods
+
+  - year: 2014
+    champ: Nicholas Tapia & Stephanie Berg
+    pos2: Jevgeni Davidov & Zoya Altmark
+    pos3: Jerry Perez & Amy Chang
+
+  - year: 2013
+    champ: Laurent Lazure & Naomi Hotta
+    pos2: Leo Landa & Alona Gorer
+    pos3: Claudio Solorzano & Janine Rodrigues
+
+  - year: 2012
+    champ: Ramada Salieri Cueva and Yumiko Krupenina
+    pos2: Rommel Oramas and Daniela Borgialli
+    pos3: Nicholas Tapia and Amarkiran Kaur Singh
+
+  - year: 2011
+    champ: Brian Nguyen and Yuliana Basmajyan
+    pos2: Ramada Salieri and Yumiko Krupenina
+    pos3: Gustavo Hornos and Jesica Hornos
+
+
+stageusa:
+  - year: 2017
+    champ: Sean Ericson & Cynthia Gottlob
+    pos2: Carlos Urrego & Maureen Urrego
+    pos3: Roberto Pena & Jacklyn Shapiro
+
+
+  - year: 2016
+    champ: Daniel Moreno & Amanda Accica
+    pos2: Martin Cardoso & Noelia Guerrero
+    pos3: Roberto Pena & Jacklyn Shapiro
+
+  - year: 2015
+    champ: Ivan Troshi and Yamila Viana
+    pos2: Alexey Gavrilov and Aki Kudo
+    pos3: Roberto Peña and Jacklyn Shapiro
+
+  - year: 2014
+    champ: Jevgeni Davidov & Akiko Kudo
+    pos2: Roberto Pena & Jackelyn Shapiro
+    pos3: Connor McClure & Caroline Trent
+
+  - year: 2013
+    champ: Marcelo Molina & Carolina Vazquez
+    pos2: Laurent Lazure & Naomi Hotta
+    pos3: Bradley Montoya & Vanessa Montoya
+
+  - year: 2012
+    champ: Shawn Pikus and Olga Pisano
+    pos2: Mirabai Deranja and Michael Kass
+    pos3:
+
+  - year: 2011
+    champ: Marcelo Molina and Carolina Vasquez
+    pos2: Gustavo Hornos and Jessica Hornos
+    pos3:
+
+
+saloneu:
+  - year: 2017
+    champ: João Carlos Santos David y Mirella Santos David (NL)
+    pos2: Maksim Luchko y Natalia Luchko (RU)
+    pos3: Maksim Gerasimov y Iana Pelkhanova (RU)
+
+  - year: 2016
+    champ: Sergey Kurkatov and Luliia (Ylia) Burenicheva (RU)
+    pos2: Giampiero Cantone and Franceca Del Buono (IT)
+    pos3: Maksim Gerasimov and Maria Vasileva (RU)
+
+  - year: 2015
+    champ: Kicsi Csongor and Laura Iaru (RO)
+    pos2: Takhirov Rusian and Natalia Atepaeva (RU)
+    pos3: Smirnov Alexsei and Julia Osina (RU)
+
+  - year: 2014
+    champ: Giuseppe Bianchi and Sabina Cipolla (IT)
+    pos2: Dmitry Astafiev and Olga Gritsenko (RU)
+    pos3: Vito Raffanelli and Olga Rossello (IT)
+
+  - year: 2013
+    champ: Evangelos Hatzopoulos and Marianna Koutantou (GR)
+    pos2: Remi Esterle and Cecile Rouanne (FR)
+    pos3: Giampiero Cantone and Francesca Del Buono (IT)
+
+  - year: 2012
+    champ: Yannick Vanhove and Lieske (Liz) De Vuyst (BE)
+    pos2: Evangelos Hatzopoulos and Marianna Koutandou (GR)
+    pos3: Dmitry Astafiev and Ksenia Koltysheva (RU)
+
+  - year: 2011
+    champ: Fernando Silva and Alexandra Baldaque (PT)
+    pos2: German Prieto and Chiristina Del Campo Ortiz (ES)
+    pos3: Giampiero Cantone and Francesca Del Buono (IT)
+
+  - year: 2010
+    champ: Vladimir Khorev and Natasha Petrova (RU)
+    pos2: Fernando Silva and Alexandra Baldaque
+    pos3:
+
+
+stageeu:
+  - year: 2017
+    champ: Maksim Luchko y Natalia Luchko (RU)
+
+  - year: 2016
+    champ: Giampiero Cantone and Franceca Del Buono (IT)
+    pos2: Maksim Gerasimov and Maria Vasileva (RU)
+    pos3: Stanpoilidis Stelios and Despina Amarantidou (GR)
+
+  - year: 2015
+    champ: Parshakov Kirill and Gudyno Anna (RU)
+    pos2: Gianpiero Cantone and Francesca Del Buono (IT)
+    pos3: Astafiev Dimitry and Taisia Finenkova (RU)
+
+  - year: 2014
+    champ: Christos Bakopoulos and Maria Ziloti (GR)
+    pos2: Remi Esterle and Cecile Rouanne (FR)
+    pos3: Giampiero Cantone and Francesca Del Buono (IT)
+
+  - year: 2013
+    champ: Simone Faccini and Gioia Abballe (IT)
+    pos2: Stanislav Fursov and Ekaterina Simonova (RU)
+    pos3: Valentin Reshetnikov and Tasya finenkova (RU)
+
+  - year: 2012
+    champ: Dmitry Vasin and Taisiya Finenkov (RU)
+    pos2: Yannick Vanhove and Lieske De Vuyst (BE)
+    pos3: Simone Facchini and Gioia Abballe
+
+  - year: 2011
+    champ: Gabriel Marino and Elli Karadimou (GR)
+    pos2: Nelson Pinto and Isabel Costa (PT)
+    pos3: Andrea Bassi/Alice Gaini (IT)
+
+  - year: 2010
+    champ: Christina Sarioglou and Rojer Zalazar (GR)
+    pos2:
+    pos3:
