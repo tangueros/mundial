@@ -10,10 +10,12 @@ pageclass: home
   %h1
     %i tango mundial
 
-  %ul
-  - data.mundial.annals.each do |i|
+  .container
+    .row
+      - data.mundial.annals.each do |i|
+        .col-sm-6.col-xs-12
+          = link_to "Year #{i.year} (ed. #{i.edition})", "/year/#{i.year}/"
 
-    %li
-      = link_to "Year #{i.year}", "/year/#{i.year}/"
+
 
 
